@@ -1,0 +1,33 @@
+{
+  "forge_marker": 1,
+  "defaults": { "model": "cube_all" },
+  "variants": {
+    "circuit"       : [{ "textures": { "all": "rechiseledcabinadditions:blocks/circuit"        } }],
+    "column"        : [{ "textures": { "all": "rechiseledcabinadditions:blocks/column-top"     } }],
+    "dots"          : [{ "textures": { "all": "rechiseledcabinadditions:blocks/dots"           } }],
+    "frameblue"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/frameblue"      } }],
+    "goldplate"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/goldplate"      } }],
+    "goldplating"   : [{ "textures": { "all": "rechiseledcabinadditions:blocks/goldplating"    } }],
+    "grinder"       : [{ "textures": { "all": "rechiseledcabinadditions:blocks/grinder"        } }],
+    "hazard"        : [{ "textures": { "all": "rechiseledcabinadditions:blocks/hazard"         } }],
+    "hazardorange"  : [{ "textures": { "all": "rechiseledcabinadditions:blocks/hazardorange"   } }],
+    "iceiceice"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/iceiceice"      } }],
+    "metalbox"      : [{
+      "model"   : "cube_column",
+      "textures": {
+        "side": "rechiseledcabinadditions:blocks/metalbox-side",
+        "end" : "rechiseledcabinadditions:blocks/metalbox-top"
+      }
+    }],
+    "platex"        : [{ "textures": { "all": "rechiseledcabinadditions:blocks/platex"         } }],
+    "plating"       : [{ "textures": { "all": "rechiseledcabinadditions:blocks/plating"        } }],
+    "rust"          : [{ "textures": { "all": "rechiseledcabinadditions:blocks/rust"           } }],
+    "rust2"         : [{ "textures": { "all": "rechiseledcabinadditions:blocks/rust2"          } }],
+    "rustplates"    : [{ "textures": { "all": "rechiseledcabinadditions:blocks/rustplates"     } }],
+    "tilemosaic"    : [{ "textures": { "all": "rechiseledcabinadditions:blocks/tilemosaic"     } }],
+    "wireframe"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/wireframe"      } }],
+    "wireframeblue" : [{ "textures": { "all": "rechiseledcabinadditions:blocks/wireframeblue"  } }],
+    "wireframewhite": [{ "textures": { "all": "rechiseledcabinadditions:blocks/wireframewhite" } }],
+    "vent"          : [{ "textures": { "all": "rechiseledcabinadditions:blocks/vent-top"       } }]
+  }
+}

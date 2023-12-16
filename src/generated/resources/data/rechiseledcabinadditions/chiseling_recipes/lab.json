@@ -1,0 +1,57 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:checkertile"
+    },
+    {
+      "item": "rechiseledcabinadditions:clearscreen"
+    },
+    {
+      "item": "rechiseledcabinadditions:directionleft-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:directionright-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:dottedpanel"
+    },
+    {
+      "item": "rechiseledcabinadditions:floortile"
+    },
+    {
+      "item": "rechiseledcabinadditions:fuzzscreen"
+    },
+    {
+      "item": "rechiseledcabinadditions:infocon-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:smallsteel-top"
+    },
+    {
+      "item": "rechiseledcabinadditions:smallsteel-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:largesteel-top"
+    },
+    {
+      "item": "rechiseledcabinadditions:largesteel-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:smalltile"
+    },
+    {
+      "item": "rechiseledcabinadditions:largetile"
+    },
+    {
+      "item": "rechiseledcabinadditions:largewall"
+    },
+    {
+      "item": "rechiseledcabinadditions:wallvents-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:roundel"
+    }
+  ]
+}

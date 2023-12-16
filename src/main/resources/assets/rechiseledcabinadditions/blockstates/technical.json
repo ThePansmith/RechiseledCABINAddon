@@ -1,0 +1,62 @@
+{
+    "forge_marker": 1,
+    "defaults": { "model":"cube_all" },
+    "variants": {
+        "fanstill"        : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/fanstill-side",
+                "end" : "rechiseledcabinadditions:blocks/fanstill-top"
+            }
+        }],
+        "vent"               : [{ "textures": { "all":"rechiseledcabinadditions:blocks/vent"                } }],
+        "insulationv2"       : [{ "textures": { "all":"rechiseledcabinadditions:blocks/insulationv2"        } }],
+        "massivefan"         : [{ "textures": { "all":"rechiseledcabinadditions:blocks/massiveFan"          } }],
+        "fanfast"        : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/fanfast-side",
+                "end" : "rechiseledcabinadditions:blocks/fanfast-top"
+            }
+        }],
+        "scaffoldtransparent": [{ "textures": { "all":"rechiseledcabinadditions:blocks/scaffoldTransparent" } }],
+        "wallpads"           : [{ "textures": { "all":"rechiseledcabinadditions:blocks/wallPads"            } }],
+        "rustycover"         : [{ "textures": { "all":"rechiseledcabinadditions:blocks/rustyCover"          } }],
+        "fanfasttransparent"        : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/fanfasttransparent-side",
+                "end" : "rechiseledcabinadditions:blocks/fanfasttransparent-top"
+            }
+        }],
+        "industrialrelic"    : [{ "textures": { "all":"rechiseledcabinadditions:blocks/industrialrelic"     } }],
+        "fanstilltransparent"        : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/fanstilltransparent-side",
+                "end" : "rechiseledcabinadditions:blocks/fanstilltransparent-top"
+            }
+        }],
+        "rustyboltedplates"  : [{ "textures": { "all":"rechiseledcabinadditions:blocks/rustyBoltedPlates"   } }],
+        "cables"             : [{ "textures": { "all":"rechiseledcabinadditions:blocks/cables"              } }],
+        "malfunctionfan"        : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/malfunctionfan-side",
+                "end" : "rechiseledcabinadditions:blocks/malfunctionfan-top"
+            }
+        }],
+        "massivehexplating"  : [{ "textures": { "all":"rechiseledcabinadditions:blocks/massiveHexPlating"   } }],
+        "old"                : [{ "textures": { "all":"rechiseledcabinadditions:blocks/old"                 } }],
+        "grate"              : [{ "textures": { "all":"rechiseledcabinadditions:blocks/grate"               } }],
+        "graterusty"         : [{ "textures": { "all":"rechiseledcabinadditions:blocks/grateRusty"          } }],
+        "hexarmorplating"    : [{ "textures": { "all":"rechiseledcabinadditions:blocks/hexArmorPlating"     } }],
+        "wires"              : [{ "textures": { "all":"rechiseledcabinadditions:blocks/wires"               } }],
+        "spinningstuffanim"  : [{ "textures": { "all":"rechiseledcabinadditions:blocks/spinningStuffAnim"   } }],
+        "pipessmall"         : [{ "textures": { "all":"rechiseledcabinadditions:blocks/pipesSmall"          } }],
+        "scaffold"           : [{ "textures": { "all":"rechiseledcabinadditions:blocks/scaffold"            } }],
+        "ventglowing"        : [{ "textures": { "all":"rechiseledcabinadditions:blocks/ventGlowing"         } }],
+        "cautiontape"        : [{ "textures": { "all":"rechiseledcabinadditions:blocks/cautiontape"         } }],
+        "pipeslarge"         : [{ "textures": { "all":"rechiseledcabinadditions:blocks/pipesLarge"          } }]
+    }
+}

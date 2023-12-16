@@ -1,0 +1,48 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:cables"
+    },
+    {
+      "item": "rechiseledcabinadditions:cautiontape"
+    },
+    {
+      "item": "rechiseledcabinadditions:grate"
+    },
+    {
+      "item": "rechiseledcabinadditions:graterusty"
+    },
+    {
+      "item": "rechiseledcabinadditions:industrialrelic"
+    },
+    {
+      "item": "rechiseledcabinadditions:insulationv2"
+    },
+    {
+      "item": "rechiseledcabinadditions:pipeslarge"
+    },
+    {
+      "item": "rechiseledcabinadditions:pipessmall"
+    },
+    {
+      "item": "rechiseledcabinadditions:rustyboltedplates"
+    },
+    {
+      "item": "rechiseledcabinadditions:scaffold"
+    },
+    {
+      "item": "rechiseledcabinadditions:scaffoldtransparent"
+    },
+    {
+      "item": "rechiseledcabinadditions:vent"
+    },
+    {
+      "item": "rechiseledcabinadditions:ventglowing"
+    },
+    {
+      "item": "rechiseledcabinadditions:wires"
+    }
+  ]
+}

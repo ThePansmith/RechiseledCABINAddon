@@ -1,0 +1,54 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:glaxx_0"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_1"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_2"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_3"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_4"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_5"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_6"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_7"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_8"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_9"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_10"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_11"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_12"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_13"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_14"
+    },
+    {
+      "item": "rechiseledcabinadditions:glaxx_15"
+    }
+  ]
+}

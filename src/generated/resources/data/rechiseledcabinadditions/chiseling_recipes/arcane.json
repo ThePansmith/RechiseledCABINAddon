@@ -1,0 +1,72 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:arcane_raw"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_array"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_braid"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_chaotic_medium"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_chaotic_small"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_circular"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_cuts"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_dent"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_french"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_jellybean"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_layers"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_mosaic"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_ornate"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_panel"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_pillar"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_road"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_slanted"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_tiles_small"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_tiles_medium"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_tiles_large"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_weaver"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_zag"
+    }
+  ]
+}

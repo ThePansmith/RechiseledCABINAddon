@@ -1,0 +1,54 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:bitt_0"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_1"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_2"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_3"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_4"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_5"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_6"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_7"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_8"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_9"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_10"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_11"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_12"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_13"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_14"
+    },
+    {
+      "item": "rechiseledcabinadditions:bitt_15"
+    }
+  ]
+}

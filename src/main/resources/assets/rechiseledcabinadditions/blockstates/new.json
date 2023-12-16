@@ -1,0 +1,24 @@
+{
+    "forge_marker": 1,
+    "defaults": {"model":"cube_all"},
+    "variants": {
+        "scaffoldlarge": [{"textures":{"all":"rechiseledcabinadditions:blocks/scaffoldlarge"}}],
+        "piping": [{"textures":{"all":"rechiseledcabinadditions:blocks/piping"}}],
+        "weatheredorangepanels": [{"textures":{"all":"rechiseledcabinadditions:blocks/weatheredorangepanels"}}],
+        "makeshiftpanels": [{"textures":{"all":"rechiseledcabinadditions:blocks/makeshiftpanels"}}],
+        "sturdy": [{"textures":{"all":"rechiseledcabinadditions:blocks/sturdy"}}],
+        "tapedrive": [{"textures":{"all":"rechiseledcabinadditions:blocks/tapedrive"}}],
+        "megacell": [{
+            "model"   : "cube_bottom_top",
+            "textures": {
+                "side":     "rechiseledcabinadditions:blocks/megacell-side",
+                "bottom":   "rechiseledcabinadditions:blocks/megacell-bottom",
+                "top" :     "rechiseledcabinadditions:blocks/megacell-top"
+            }
+        }],
+        "engineering": [{"textures":{"all":"rechiseledcabinadditions:blocks/engineering"}}],
+        "weatheredgreenpanels": [{"textures":{"all":"rechiseledcabinadditions:blocks/weatheredgreenpanels"}}],
+        "oldetimeyserveranim": [{"textures":{"all":"rechiseledcabinadditions:blocks/oldetimeyserveranim"}}],
+        "exhaustplating": [{"textures":{"all":"rechiseledcabinadditions:blocks/exhaustplating"}}]
+    }
+}

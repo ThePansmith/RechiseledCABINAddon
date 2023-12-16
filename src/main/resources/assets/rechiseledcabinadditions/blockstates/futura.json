@@ -1,0 +1,62 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "rechiseledcabinadditions:cube_2_layer_topshaded"
+  },
+  "variants": {
+    "circuitplate": [{
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/circuit_plate",
+        "top"     : "rechiseledcabinadditions:blocks/circuit_plate"
+      }
+    }],
+    "controllerpurple": [{
+      "model"   : "rechiseledcabinadditions:cube_3_layer_topshaded",
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/controller_unity_particle",
+        "top"     : "rechiseledcabinadditions:blocks/unity_lines_plating",
+        "mid"     : "rechiseledcabinadditions:blocks/unity_lines",
+        "bot"     : "rechiseledcabinadditions:blocks/lines_invalid"
+      }
+    }],
+    "controller": [{
+      "model"   : "rechiseledcabinadditions:cube_3_layer_topshaded",
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/controller_particle",
+        "top"     : "rechiseledcabinadditions:blocks/lines_plating",
+        "mid"     : "rechiseledcabinadditions:blocks/rainbow_lines",
+        "bot"     : "rechiseledcabinadditions:blocks/lines_invalid"
+      }
+    }],
+    "screencyan": [{
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/screen_cyan",
+        "top"     : "rechiseledcabinadditions:blocks/screen_cyan",
+        "bot"     : "rechiseledcabinadditions:blocks/screen_discoherent"
+      }
+    }],
+    "screenmetallic": [{
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/screen_metallic",
+        "top"     : "rechiseledcabinadditions:blocks/screen_metallic",
+        "bot"     : "rechiseledcabinadditions:blocks/screen_discoherent"
+      }
+    }],
+    "uberwavy": [{
+      "model"   : "rechiseledcabinadditions:cube_3_layer_topshaded",
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/orange_frame_particle",
+        "top"     : "rechiseledcabinadditions:blocks/orange_frame",
+        "mid"     : "rechiseledcabinadditions:blocks/uber_rainbow",
+        "bot"     : "rechiseledcabinadditions:blocks/screen_discoherent"
+      }
+    }],
+    "wavy": [{
+      "textures": {
+        "particle": "rechiseledcabinadditions:blocks/rainbow_wave_particle",
+        "top"     : "rechiseledcabinadditions:blocks/rainbow_wave_base",
+        "bot"     : "rechiseledcabinadditions:blocks/rainbow_wave"
+      }
+    }]
+  }
+}

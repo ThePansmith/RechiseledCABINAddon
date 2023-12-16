@@ -1,0 +1,58 @@
+{
+    "forge_marker": 1,
+    "defaults": { "model": "cube_all" },
+    "variants": {
+        "infocon"       : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/infocon-ctmh",
+                "end" : "rechiseledcabinadditions:blocks/infocon-top"
+            }
+        }],
+        "roundel"       : [{ "textures": { "all": "rechiseledcabinadditions:blocks/roundel"         } }],
+        "largewall"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/largewall"       } }],
+        "largesteel"    : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/largesteel-side",
+                "end" : "rechiseledcabinadditions:blocks/largesteel-top"
+            }
+        }],
+        "directionright": [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/directionright-ctmh",
+                "end" : "rechiseledcabinadditions:blocks/directionright-top"
+            }
+        }],
+        "floortile"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/floortile"       } }],
+        "wallvents"     : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/wallvents-ctmh",
+                "end" : "rechiseledcabinadditions:blocks/wallvents-top"
+            }
+        }],
+        "fuzzscreen"    : [{ "textures": { "all": "rechiseledcabinadditions:blocks/fuzzscreen"      } }],
+        "smallsteel"    : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/smallsteel-side",
+                "end" : "rechiseledcabinadditions:blocks/smallsteel-top"
+            }
+        }],
+        "checkertile"   : [{ "textures": { "all": "rechiseledcabinadditions:blocks/checkertile"     } }],
+        "dottedpanel"   : [{ "textures": { "all": "rechiseledcabinadditions:blocks/dottedpanel-top" } }],
+        "directionleft" : [{
+            "model"   : "cube_column",
+            "textures": {
+                "side": "rechiseledcabinadditions:blocks/directionleft-ctmh",
+                "end" : "rechiseledcabinadditions:blocks/directionleft-top"
+            }
+        }],
+        "clearscreen"   : [{ "textures": { "all": "rechiseledcabinadditions:blocks/clearscreen"     } }],
+        "largetile"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/largetile"       } }],
+        "smalltile"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/smalltile"       } }],
+        "wallpanel"     : [{ "textures": { "all": "rechiseledcabinadditions:blocks/wallpanel-top"   } }]
+    }
+}

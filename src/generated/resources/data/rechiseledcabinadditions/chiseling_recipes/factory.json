@@ -1,0 +1,72 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:circuit"
+    },
+    {
+      "item": "rechiseledcabinadditions:dots"
+    },
+    {
+      "item": "rechiseledcabinadditions:frameblue"
+    },
+    {
+      "item": "rechiseledcabinadditions:goldplate"
+    },
+    {
+      "item": "rechiseledcabinadditions:goldplating"
+    },
+    {
+      "item": "rechiseledcabinadditions:grinder"
+    },
+    {
+      "item": "rechiseledcabinadditions:hazard"
+    },
+    {
+      "item": "rechiseledcabinadditions:hazardorange"
+    },
+    {
+      "item": "rechiseledcabinadditions:iceiceice"
+    },
+    {
+      "item": "rechiseledcabinadditions:metalbox-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:metalbox-top"
+    },
+    {
+      "item": "rechiseledcabinadditions:platex"
+    },
+    {
+      "item": "rechiseledcabinadditions:plating"
+    },
+    {
+      "item": "rechiseledcabinadditions:rust"
+    },
+    {
+      "item": "rechiseledcabinadditions:rust2"
+    },
+    {
+      "item": "rechiseledcabinadditions:rustplates"
+    },
+    {
+      "item": "rechiseledcabinadditions:tilemosaic"
+    },
+    {
+      "item": "rechiseledcabinadditions:vent-side"
+    },
+    {
+      "item": "rechiseledcabinadditions:hexnew"
+    },
+    {
+      "item": "rechiseledcabinadditions:wireframe"
+    },
+    {
+      "item": "rechiseledcabinadditions:wireframeblue"
+    },
+    {
+      "item": "rechiseledcabinadditions:wireframewhite"
+    }
+  ]
+}
