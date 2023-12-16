@@ -1,0 +1,15 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "ctm",
+    "layer": "CUTOUT",
+    "textures": [
+        "rechiseledcabinadditions:block/futura/screen_metallic_ctm"
+    ],
+    "extra": {
+      "connect_to": [
+        { "block": "rechiseledcabinadditions:futura", "predicate": { "variation": 1, "compare_func": "<=" }}
+      ]
+    }
+  }
+}

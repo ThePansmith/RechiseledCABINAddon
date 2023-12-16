@@ -1,0 +1,27 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:arcane_small_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_chaotic_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_cracked_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_encased_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_soft_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_solid_bricks"
+    },
+    {
+      "item": "rechiseledcabinadditions:arcane_triple_bricks"
+    }
+  ]
+}

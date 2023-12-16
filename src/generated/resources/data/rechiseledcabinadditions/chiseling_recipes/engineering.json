@@ -1,0 +1,36 @@
+{
+  "type": "rechiseled:chiseling",
+  "overwrite": false,
+  "entries": [
+    {
+      "item": "rechiseledcabinadditions:engineering_2"
+    },
+    {
+      "item": "rechiseledcabinadditions:engineering_3"
+    },
+    {
+      "item": "rechiseledcabinadditions:exhaustplating"
+    },
+    {
+      "item": "rechiseledcabinadditions:makeshiftpanels"
+    },
+    {
+      "item": "rechiseledcabinadditions:piping"
+    },
+    {
+      "item": "rechiseledcabinadditions:scaffoldlarge_0"
+    },
+    {
+      "item": "rechiseledcabinadditions:scaffoldlarge"
+    },
+    {
+      "item": "rechiseledcabinadditions:sturdy"
+    },
+    {
+      "item": "rechiseledcabinadditions:weatheredgreenpanels"
+    },
+    {
+      "item": "rechiseledcabinadditions:weatheredorangepanels"
+    }
+  ]
+}
