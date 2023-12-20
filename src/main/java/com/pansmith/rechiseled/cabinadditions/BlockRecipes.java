@@ -23,15 +23,15 @@ public class BlockRecipes extends RecipeGenerator {
                 .pattern("SCS")
                 .pattern("CSC")
                 .pattern("SCS")
-                .input('S', Tags.Items.STONE)
-                .input('C', Tags.Items.COBBLESTONE);
+                .input('S', () -> Items.STONE)
+                .input('C', () -> Items.COBBLESTONE);
 
         this.shaped(Blocks.BITT_0.getRegularBlock(), 16)
                 .pattern("CSC")
                 .pattern("SCS")
                 .pattern("CSC")
-                .input('S', Tags.Items.STONE)
-                .input('C', Tags.Items.COBBLESTONE);
+                .input('S', () -> Items.STONE)
+                .input('C', () -> Items.COBBLESTONE);
 
         this.shaped(Blocks.GLAXX_0.getRegularBlock(), 16)
                 .pattern(" G ")
@@ -43,35 +43,35 @@ public class BlockRecipes extends RecipeGenerator {
                 .pattern("SSS")
                 .pattern("SQS")
                 .pattern("SSS")
-                .input('S', Tags.Items.STONE)
+                .input('S', () -> Items.STONE)
                 .input('Q', Tags.Items.GEMS_QUARTZ);
 
         this.shaped(Blocks.ANTIBLOCK_WHITE.getRegularBlock(), 8)
                 .pattern("SSS")
                 .pattern("SGS")
                 .pattern("SSS")
-                .input('S', Tags.Items.STONE)
+                .input('S', () -> Items.STONE)
                 .input('G', Tags.Items.DUSTS_GLOWSTONE);
 
         this.shaped(Blocks.CIRCUIT.getRegularBlock(), 16)
                 .pattern("ISI")
                 .pattern("S S")
                 .pattern("ISI")
-                .input('S', Tags.Items.STONE)
+                .input('S', () -> Items.STONE)
                 .input('I', Tags.Items.INGOTS_IRON);
 
         this.shaped(Blocks.CABLES.getRegularBlock(), 16)
                 .pattern("ISI")
                 .pattern("S S")
                 .pattern("ISI")
-                .input('S', Tags.Items.STONE)
+                .input('S', () -> Items.STONE)
                 .input('I', Tags.Items.INGOTS_COPPER);
 
         this.shaped(Blocks.ENGINEERING.getRegularBlock(), 16)
                 .pattern("ISI")
                 .pattern("S S")
                 .pattern("ISI")
-                .input('S', Tags.Items.STONE)
+                .input('S', () -> Items.STONE)
                 .input('I', Tags.Items.INGOTS_GOLD);
 
         this.shaped(Blocks.ARCANE_RAW.getRegularBlock(), 16)
