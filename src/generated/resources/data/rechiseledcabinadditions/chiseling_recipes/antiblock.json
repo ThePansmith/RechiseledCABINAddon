@@ -3,6 +3,9 @@
   "overwrite": false,
   "entries": [
     {
+      "item": "rechiseledcabinadditions:antiblock_white"
+    },
+    {
       "item": "rechiseledcabinadditions:antiblock_red"
     },
     {
@@ -34,9 +37,6 @@
     },
     {
       "item": "rechiseledcabinadditions:antiblock_pink"
-    },
-    {
-      "item": "rechiseledcabinadditions:antiblock_white"
     },
     {
       "item": "rechiseledcabinadditions:antiblock_light_gray"

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "rechiseledcabinadditions:arcane_raw"
+    }
+  },
+  "result": {
+    "item": "rechiseledcabinadditions:arcane_small_bricks",
+    "count": 16
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "display": {
+    "icon": {
+      "item": "rechiseledcabinadditions:arcane_small_bricks"
+    },
+    "title": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/arcane_small_bricks.title"
+    },
+    "description": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/arcane_small_bricks.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "rechiseledcabinadditions:arcane_small_bricks"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rechiseledcabinadditions:arcane_small_bricks"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "display": {
+    "icon": {
+      "item": "rechiseledcabinadditions:engineering"
+    },
+    "title": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/engineering.title"
+    },
+    "description": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/engineering.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "rechiseledcabinadditions:engineering"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rechiseledcabinadditions:engineering"
+    ]
+  }
+}

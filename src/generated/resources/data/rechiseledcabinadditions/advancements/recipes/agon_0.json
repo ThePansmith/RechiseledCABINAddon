@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "display": {
+    "icon": {
+      "item": "rechiseledcabinadditions:agon_0"
+    },
+    "title": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/agon_0.title"
+    },
+    "description": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/agon_0.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "rechiseledcabinadditions:agon_0"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rechiseledcabinadditions:agon_0"
+    ]
+  }
+}

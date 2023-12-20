@@ -22,7 +22,8 @@ public class RechiseledCabinadditions {
         Recipes.init();
 
         // Register data providers for generating all the json files
-        GeneratorRegistrationHandler.get("rechiseledcabinadditions");
+        GeneratorRegistrationHandler handler = GeneratorRegistrationHandler.get("rechiseledcabinadditions");
+        handler.addGenerator(BlockRecipes::new);
         REGISTRATION.registerDataProviders();
 
     }

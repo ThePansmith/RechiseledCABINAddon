@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DC",
+    "CD"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:coal"
+    },
+    "D": {
+      "tag": "forge:cobblestone/deepslate"
+    }
+  },
+  "result": {
+    "item": "rechiseledcabinadditions:arcane_raw",
+    "count": 16
+  }
+}

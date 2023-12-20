@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "display": {
+    "icon": {
+      "item": "rechiseledcabinadditions:arcane_raw"
+    },
+    "title": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/arcane_raw.title"
+    },
+    "description": {
+      "translate": "rechiseledcabinadditions.advancement.recipes/arcane_raw.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "rechiseledcabinadditions:arcane_raw"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "rechiseledcabinadditions:arcane_raw"
+    ]
+  }
+}

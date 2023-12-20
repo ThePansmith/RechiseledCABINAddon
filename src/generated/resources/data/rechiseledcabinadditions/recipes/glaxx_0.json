@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "G G",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "rechiseledcabinadditions:glaxx_0",
+    "count": 16
+  }
+}

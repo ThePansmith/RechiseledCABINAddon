@@ -69,12 +69,12 @@ public class Blocks {
     public static final RechiseledBlockType GLAXX_14 = createGlass("glaxx_14", "Glaxx 14", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.GLAXX).build();
     public static final RechiseledBlockType GLAXX_15 = createGlass("glaxx_15", "Glaxx 15", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.GLAXX).build();
     // Lab
-    public static final RechiseledBlockType CHECKERTILE = create("checkertile", "Laboratory (Checkertile)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
-    public static final RechiseledBlockType CLEARSCREEN = create("clearscreen", "Laboratory (Clearscreen)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
+    public static final RechiseledBlockType CHECKERTILE = create("checkertile", "Laboratory (Checker tile)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
+    public static final RechiseledBlockType CLEARSCREEN = create("clearscreen", "Laboratory (Clears creen)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType DIRECTIONLEFT = create("directionleft-side", "Laboratory (Left Lab Arrow)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
-    public static final RechiseledBlockType DIRECTIONRIGHT = create("directionright-side", "Laboratory (RightLab Arrow)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
+    public static final RechiseledBlockType DIRECTIONRIGHT = create("directionright-side", "Laboratory (Right Lab Arrow)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType DOTTEDPANEL = create("dottedpanel", "Laboratory (Dotted Panel)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
-    public static final RechiseledBlockType FLOORTILE = create("floortile", "Laboratory (Floortile)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
+    public static final RechiseledBlockType FLOORTILE = create("floortile", "Laboratory (Floor tile)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType FUZZSCREEN = create("fuzzscreen", "Laboratory (Fuzzy Screen)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType INFOCON = create("infocon-side", "Laboratory (Information Console)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType SMALLSTEEL = create("smallsteel-top", "Laboratory (Small Steel)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
@@ -87,6 +87,7 @@ public class Blocks {
     public static final RechiseledBlockType WALLVENT = create("wallvents-side", "Laboratory (Wall Vent)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     public static final RechiseledBlockType ROUNDEL = create("roundel", "Laboratory (Roundel)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.LAB).build();
     // Antiblock
+    public static final RechiseledBlockType ANTIBLOCK_WHITE = create("antiblock_white", "Antiblock (White)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_RED = create("antiblock_red", "Antiblock (Red)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_ORANGE = create("antiblock_orange", "Antiblock (Orange)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_YELLOW = create("antiblock_yellow", "Antiblock (Yellow)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
@@ -98,12 +99,11 @@ public class Blocks {
     public static final RechiseledBlockType ANTIBLOCK_MAGENTA = create("antiblock_magenta", "Antiblock (Magenta)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_PURPLE = create("antiblock_purple", "Antiblock (Purple)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_PINK = create("antiblock_pink", "Antiblock (Pink)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
-    public static final RechiseledBlockType ANTIBLOCK_WHITE = create("antiblock_white", "Antiblock (White)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_LIGHT_GRAY = create("antiblock_light_gray", "Antiblock (Light Gray)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_GRAY = create("antiblock_gray", "Antiblock (Gray)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_BLACK = create("antiblock_black", "Antiblock (Black)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
     public static final RechiseledBlockType ANTIBLOCK_BROWN = create("antiblock_brown", "Antiblock (Brown)", () -> net.minecraft.world.level.block.Blocks.GLASS).noConnectingVariant().recipe(Recipes.ANTIBLOCK).build();
-    //Lab
+    //Factory
     public static final RechiseledBlockType CIRCUIT = create("circuit", "Factory (Circuit)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.FACTORY).build();
     public static final RechiseledBlockType DOTS = create("dots", "Factory (Dots)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.FACTORY).build();
     public static final RechiseledBlockType FRAMEBLUE = create("frameblue", "Factory (Frame Blue)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.FACTORY).build();
@@ -142,8 +142,8 @@ public class Blocks {
     public static final RechiseledBlockType VENTGLOWING = create("ventglowing", "Technical (Glowing Vent)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.TECHNICAL).build();
     public static final RechiseledBlockType WIRES = create("wires", "Technical (Wires)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.TECHNICAL).build();
     // Engineering
-    public static final RechiseledBlockType ENGINEERING2 = create("engineering_2", "Engineering Block", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
-    public static final RechiseledBlockType ENGINEERING3 = create("engineering_3", "Engineering Block", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
+    public static final RechiseledBlockType ENGINEERING = create("engineering", "Engineering (Machinery)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
+    public static final RechiseledBlockType ENGINEERINGPIPE = create("engineering_pipe", "Engineering (Pipes)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
     public static final RechiseledBlockType EXHAUSTPLATING = create("exhaustplating", "Engineering (Exhaust Plating)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
     public static final RechiseledBlockType MAKESHIFTPANELS = create("makeshiftpanels", "Engineering (Makeshift Panels)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
     public static final RechiseledBlockType PIPING = create("piping", "Engineering (Piping)", () -> net.minecraft.world.level.block.Blocks.IRON_BLOCK).noConnectingVariant().recipe(Recipes.ENGINEERING).build();
